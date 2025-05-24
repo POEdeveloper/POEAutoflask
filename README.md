@@ -1,7 +1,7 @@
-# POEAutoflask
+﻿# POEAutoflask
 ![ZuOOJaA](https://github.com/user-attachments/assets/6dbab1cc-d348-4919-98e9-38f6dce35bdd)
 
-<li>Total Feature Set & Functionality:</li>
+<li>:one:Total Feature Set & Functionality:one:</li>
 <li>Autopot – Supports Controllers, Mind over Matter, and Hybrid builds</li>
 <li>Auto Logout/Escape on HP/ES/Mana threshold</li>
 <li>Drowning Safety-Net to prevent accidental deaths</li>
